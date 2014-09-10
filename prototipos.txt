@@ -1,0 +1,16 @@
+Instalaciones interactivas
+
+
+
+Aplicaciones mobiles de audio.
+
+
+- videojuego con componentes de arte generativo que reaccione al sonido. 
+
+- aplicación para transmitir audio por wifi para monitoreo de eventos y conferencias.
+
+
+Hardware
+
+
+- modulos hardware de procesamiento de audio
